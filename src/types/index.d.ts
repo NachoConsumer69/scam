@@ -6,4 +6,5 @@ export interface IData {
     fingerprint?: string;
     encrypted_user_payload?: string;
     encrypted_token?: string;
+    ticket?: string;
 }
