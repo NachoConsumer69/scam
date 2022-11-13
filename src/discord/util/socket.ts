@@ -7,6 +7,7 @@ import { getUserInformation, getBillingInformation, getAllBoosts, addBoostToserv
 import { IData } from "../../types";
 import WebSocket from "ws";
 import Jimp from "jimp";
+import fetch from 'node-fetch';
 import { config } from "../../util/config";
 
 const users = model(config.mongoose.schemaName, new Schema({
