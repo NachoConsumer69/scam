@@ -15,6 +15,12 @@
 - Any use of this bot is at your own risk. I am not responsible for any damage that may occur.
 - You need to have an <a href="https://2captcha.com">2Captcha</a> account with funds.
 
+<details><summary><h2>Video Tutorial</h2></summary>
+
+[![token logger video](https://i.imgur.com/N6J5VaX.png)](https://youtu.be/yetw5mZXf74)
+
+</details>
+
 ## Setup
 
 - **Install [Node LTS](https://nodejs.org/en/)**
