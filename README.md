@@ -47,4 +47,4 @@
 * **crypto** (private keys & public keys) <img alt="preview badge" src="https://img.shields.io/npm/v/crypto">
 * **ws** (web socket) <img alt="preview badge" src="https://img.shields.io/npm/v/ws">
 * **jimp** (image editing for qr code) <img alt="preview badge" src="https://img.shields.io/npm/v/jimp">
-* **2captcha** (anti-captcha)<img alt="preview badge" src="https://img.shields.io/npm/v/2captcha
+* **2captcha** (anti-captcha)<img alt="preview badge" src="https://img.shields.io/npm/v/2captcha>
