@@ -5,7 +5,7 @@
 - **Looks exactly like Wick Bot.** (when configured properly)
 - **Memory Efficient.** (doesn't use chromedriver.exe or any browser)
 - **Very stable and reliable.** (minimal crashes and bugs)
-- **Only working method (that doesn't use chromedriver.exe)**
+- **Only working method** (that doesn't use chromedriver.exe)
 
 ## Disclaimers
 - This is a bot that is not affiliated with any of the Discord or Discord Inc. teams.
