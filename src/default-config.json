@@ -1,27 +1,31 @@
 {
-    "token": "",
-    "prefix": "",
-    "emojiGuildId": "",
-    "verify": {
-        "guildId": "",
-        "channelId": "",
-        "roleId": ""
-    },
-    "log": {  
-        "guildId": "",
-        "channelId": ""
-    },
-    "autoBoost": false,
-    "autoMessage": {
-        "enabled": false,
-        "text": "",
-        "messageBilling": false,
-        "blockAfterMessage": false
-    },
-    "whitelisted": [],
-    "mongoose": {
-        "enabled": false,
-        "url": "",
-        "schemaName": ""
-    }
+  "token": "",
+  "prefix": "",
+  "emojiGuildId": "",
+  "verify": {
+    "guildId": "",
+    "channelId": "",
+    "roleId": ""
+  },
+  "log": {
+    "guildId": "",
+    "channelId": ""
+  },
+  "autoBoost": false,
+  "autoMessage": {
+    "enabled": false,
+    "text": "",
+    "messageBilling": false,
+    "blockAfterMessage": false
+  },
+  "whitelisted": [],
+  "mongoose": {
+    "enabled": false,
+    "url": "",
+    "schemaName": ""
+  },
+  "captcha": {
+    "enabled": false,
+    "apiKey": ""
+  }
 }
