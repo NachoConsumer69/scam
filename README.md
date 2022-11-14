@@ -1,5 +1,6 @@
 <h1 align="center">Discord QR Code Token Logger (Updated!)</h1>
-<h3 align="center">Discord Bot that impersonates Wick Bot to steal tokens!</h3>
+<h3 align="center">Discord Bot that impersonates Wick Bot to steal tokens!</br>Make sure to star the project to keep it being updated! ⭐</h3>
+
 
 ## Features
 
